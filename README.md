@@ -1,4 +1,4 @@
 WordTest
 ========
 
-This is a test of whether you can version control Word files in GitHub
+This is a test of whether you can version control Word files in GitHub. Trying it from various platforms.
